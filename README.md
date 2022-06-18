@@ -1,4 +1,8 @@
 # Sourcemod Gametracker Rank
+
+Simplifed code, little tuned up and fixed the bugs.
+
+
 Gametracker Shows Your Server Ranking
 <a href="https://csgo-turkiye.com">![CS:GO Türkiye Sourcemod Gametracker](https://github.com/tncykrkyl/sourcemod-gametracker/raw/main/images/gtrankimage.png)</a>
 
